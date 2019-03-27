@@ -1,2 +1,0 @@
-# SimonGame
-Created with CodeSandbox
